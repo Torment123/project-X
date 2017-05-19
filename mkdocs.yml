@@ -1,0 +1,8 @@
+site_name: MkLorum
+pages:
+    - Home: index.md
+    - Documentation:
+      - executable: executable.md
+      - load_dataset:
+        - load_data: load_dataset/load_data.md
+theme: readthedocs
